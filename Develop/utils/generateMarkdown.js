@@ -66,7 +66,8 @@ function generateMarkdown(data) {
 
   ## Tests
 
-   Run the following in the CLI to test the application.
+   Run the following in the CLI to test the application
+   
    ${data.tests}
 
    ## Questions
