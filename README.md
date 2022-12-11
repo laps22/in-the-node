@@ -2,15 +2,13 @@
 
 [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
-# Description
+# Table of Contents
 
-# Installation
-
-# Usage
-
-# Contributing 
-
-# Tests
+[Description]
+[Installation]
+[Usage]
+[Contributing]
+[Tests]
 
 
 # Screencastify
