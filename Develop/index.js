@@ -17,6 +17,7 @@ inquirer
         name: 'email',
         message: 'For additional quesitons I can be reached via email at',
         default: 'lianaurora@gmail.com',
+        //add choices for contact methods//
     },
 ]);
 
