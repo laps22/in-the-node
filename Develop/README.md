@@ -1,44 +1,22 @@
-# sadf
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-  
-  
-  ## Description
+# Professional README Generator 
 
-  asdf
-  
-  ## Table of Contents
-  
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [License](#license)
-  
-  ## Installation
+## Reference:
 
-  You will need to install the following for this app to run:
-  sadf
-  
-  ## Usage
+[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
-  asdf
-  
-  ## License
+# Description
 
-  This application is covered under the MIT.
-  
+An application that given a set of quesitions will generate a README.md file for the developer.
 
-  ## Contributing
+# Tech Stack
 
-   sadf
+Uses Node, FS, and Inquirer package
 
-  ## Tests
+# Screencastify Video Link
 
-   Run the following in the CLI to test the application.
-   sdf
+Link to video: https://drive.google.com/file/d/1tfmvAc56hJDPuPY5Y3_C9KiVHWIMQa1W/view?usp=sharing
 
-   ## Questions
+# GitHub Repo Link
 
-  https://github.com/sadf
-  sadf
+Link: https://github.com/laps22/in-the-node.git
 

@@ -1,10 +1,10 @@
-# README.MD Generator App
+# README.md Generator Demo
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   
   
   ## Description
 
-  This application generates a README.md file for the user. Asking a series of quesitons to build our a professional  README file.
+  An application to generate a README.md file for a developer.
   
   ## Table of Contents
   
@@ -17,11 +17,11 @@
   ## Installation
 
   You will need to install the following for this app to run:
-  The developer will need to install Node.js, fs, and Inquirer.
+  Node, fs, inquirer package
   
   ## Usage
 
-  An application to help the a developer create a read me when they are unsure of how to start.
+  Use case would be to help a busy or beginner developer generate a professional READme.md file.
   
   ## License
 
@@ -36,7 +36,8 @@
 
   ## Tests
 
-   Run the following in the CLI to test the application.
+   Run the following in the CLI to test the application
+   
    node index.js
 
    ## Questions
